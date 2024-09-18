@@ -8,3 +8,4 @@ Un ejemplo basico del conocido juego <b>tic tac toe</b> realizado en las bases d
 ![demo proyecto](img/demo.png)
 
 puedes ensayarlo en el siguiente link
+https://xarcraft.github.io/juegos/tic%20tac%20toe/
